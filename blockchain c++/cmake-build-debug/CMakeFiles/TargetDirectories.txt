@@ -1,3 +1,0 @@
-C:/Users/Dijak 23-24/Desktop/blockchain c++/cmake-build-debug/CMakeFiles/blockchain_c__.dir
-C:/Users/Dijak 23-24/Desktop/blockchain c++/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Dijak 23-24/Desktop/blockchain c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
